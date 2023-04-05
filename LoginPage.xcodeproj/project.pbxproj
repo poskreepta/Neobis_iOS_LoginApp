@@ -13,6 +13,7 @@
 		CE7FAF6529DAE70200E4EB4D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7FAF6329DAE70200E4EB4D /* Main.storyboard */; };
 		CE7FAF6729DAE70400E4EB4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE7FAF6629DAE70400E4EB4D /* Assets.xcassets */; };
 		CE7FAF6A29DAE70400E4EB4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7FAF6829DAE70400E4EB4D /* LaunchScreen.storyboard */; };
+		CE7FAF7229DC49AE00E4EB4D /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7FAF7129DC49AE00E4EB4D /* Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE7FAF6629DAE70400E4EB4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE7FAF6929DAE70400E4EB4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE7FAF6B29DAE70400E4EB4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE7FAF7129DC49AE00E4EB4D /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		CE7FAF5129DAE70200E4EB4D = {
 			isa = PBXGroup;
 			children = (
+				CE7FAF7129DC49AE00E4EB4D /* Colors.swift */,
 				CE7FAF5C29DAE70200E4EB4D /* LoginPage */,
 				CE7FAF5B29DAE70200E4EB4D /* Products */,
 			);
@@ -141,6 +144,7 @@
 				CE7FAF6229DAE70200E4EB4D /* ViewController.swift in Sources */,
 				CE7FAF5E29DAE70200E4EB4D /* AppDelegate.swift in Sources */,
 				CE7FAF6029DAE70200E4EB4D /* SceneDelegate.swift in Sources */,
+				CE7FAF7229DC49AE00E4EB4D /* Colors.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
