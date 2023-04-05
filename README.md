@@ -5,7 +5,7 @@ LogoPage App is a simple iOS app that allows users to log in using their email a
 
 #  Features
 -   UIKit
--   Login and password UILabels
+-   Login and password UITextField
 -   Sign-in button UIButton
 -   **Programmatically** written UI, without the use of Storyboards
 
